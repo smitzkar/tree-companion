@@ -19,6 +19,9 @@ git-ignored/
 # enviro+ code examples
 examples/
 
+# openai examples
+official_examples
+
 # exclude virtual environment
 treebot-env/
 
